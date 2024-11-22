@@ -1,0 +1,2 @@
+C:\Users\Bruger\OneDrive\Dokumenter\TEC\Programmering\Noter\Noter\obj\Debug\Noter.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\TEC\Programmering\Noter\Noter\obj\Debug\Noter.csproj.CoreCompileInputs.cache
